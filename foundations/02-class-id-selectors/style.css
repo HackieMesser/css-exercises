@@ -8,3 +8,11 @@
     color: rgb(32, 6, 179);
     font-size: 36px;
 }
+
+.big {
+    font-size: 24px
+}
+
+#unique2{
+    background-color: hsla(144, 100%, 25%, 0.26)
+}
